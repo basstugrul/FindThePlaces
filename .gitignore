@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled python C extensions
+*.so
+
+# Compiled C++ extensions
+*.pyd
+
+# Dist directory
+dist/
+build/
+
+# Egg cache
+*.egg-info/
+
+# .env file (contains API keys and other sensitive information)
+.env
